@@ -12,12 +12,11 @@ body {
 
 .photo img {
   border-radius: 5px;
-  width: 75%;
+  width: 55%;
 }
 
 /* Header and Footer */
 header {
-  background-color: rgb(99, 98, 98);
   display: flex;
   justify-content: center;
   border-color: black;
