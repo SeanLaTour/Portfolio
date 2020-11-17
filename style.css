@@ -12,8 +12,8 @@ body {
 
 .photo img {
   border-radius: 5px;
-  width: 45%;
-  }
+  width: 75%;
+}
 
 /* Header and Footer */
 header {
@@ -33,11 +33,13 @@ footer {
 .top-section {
   margin: auto;
   padding-left: 10%;
+  padding-right: 10%;
 }
 
 .bottom-section {
   margin: auto;
   padding-left: 10%;
+  padding-right: 10%;
   font-style:oblique;
 }
 
